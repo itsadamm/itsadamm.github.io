@@ -1,5 +1,3 @@
-# itsadamm.github.io
-
-# itsadamm's page
+# itsadamm's GitHub page
 _Hello and welcome to my page!_
 
