@@ -1,4 +1,5 @@
 # itsadamm.github.io
 
-Hello!
+#itsadamm's page
+Hello and welcome to my page!
 
